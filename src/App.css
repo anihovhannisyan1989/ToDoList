@@ -6,7 +6,7 @@
   font-family: "Yantramanav", sans-serif;
   font-size: 16px;
   border-radius: 6px;
-  color: rgb(12, 77, 129);
+  color: rgb(104, 36, 194);
 }
 
 .App {
@@ -24,7 +24,7 @@
 .App h1 {
   text-align: center;
   padding-top: 30px;
-  text-shadow: 3px 3px rgba(214, 70, 207, 0.6);
+  text-shadow: 3px 3px 8px rgb(118, 65, 161);
   font-size: 50px;
   opacity: 0.8;
 }
@@ -32,7 +32,8 @@
 .App input {
   height: 30px;
   padding: 10px;
-  border: 1px solid rgb(28, 126, 172);
+  border: 2px solid rgba(69, 150, 187, 0.5);
+  box-shadow: 4px 4px 10px rgb(158, 105, 202);
 }
 
 .App input:focus {
@@ -41,8 +42,9 @@
 }
 
 .App button {
-  border: 1px solid rgb(28, 126, 172);
-  background-color: rgb(200, 238, 255);
+  border: 2px solid rgba(69, 150, 187, 0.5);
+  box-shadow: 4px 4px 10px rgb(158, 105, 202);
+  background-color: rgb(218, 243, 255);
   font-weight: 500;
   display: flex;
   justify-content: center;
