@@ -1,0 +1,15 @@
+.header-wrapper {
+  display: flex;
+  width: 500px;
+  padding: 30px 30px 10px;
+}
+
+.header-wrapper input {
+  flex-grow: 3;
+}
+
+.header-wrapper button {
+  flex-basis: 40px;
+  flex-grow: 2;
+  margin-left: 6px;
+}

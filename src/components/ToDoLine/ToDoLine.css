@@ -1,0 +1,14 @@
+.todo-item {
+  display: flex;
+  margin-bottom: 6px;
+}
+
+.todo-item input {
+  flex-grow: 3;
+}
+
+.todo-item button {
+  flex-basis: 16px;
+  flex-grow: 1;
+  margin-left: 6px;
+}
